@@ -20,3 +20,4 @@ training environment
 OS : Ubuntu 18.04
 openCV : 4.4.0
 cuda : 10.2
+
