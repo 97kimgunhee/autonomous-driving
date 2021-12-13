@@ -1,7 +1,6 @@
 # autonomous-driving
 autonomous-driving
 
-
 -Hardware and library versions-
 jetson nano
 OS : jetpack 4.6
