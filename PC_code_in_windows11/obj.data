@@ -1,0 +1,6 @@
+classes= 10
+train  = ezlife/train.txt
+valid  = ezlife/train.txt
+names = ezlife/obj.names
+backup = ezlife/backup
+
