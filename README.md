@@ -18,5 +18,6 @@ openCV : 4.1.1.26 (pip install opencv-python==4.1.1.26)
 training environment   
 OS : Ubuntu 18.04   
 openCV : 4.4.0   
-쿠다 : 10.2   
+cuad : 10.2   
+cuDNN : 8.0.1
    
